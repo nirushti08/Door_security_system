@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------------------
+Gerber File Extension Report For: PCB2.GBR   4/27/2023  4:12:30 PM
+------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------
+Layer Extension     Layer Description                      
+------------------------------------------------------------------------------------------
+.GTL                Top Layer                               
+.GBL                Bottom Layer                            
+.GPB                Bottom Pad Master                       
+.GPT                Top Pad Master                          
+.GBS                Bottom Solder                           
+.GTO                Top Overlay                             
+.GTS                Top Solder                              
+.GM13               Top 3D Body                             
+.GM5                Top Assembly                            
+.GM16               Top Component Center                    
+.GM15               Top Courtyard                           
+.GM                 Profile                                 
+.GD1                Non-plated through-hole drill file      
+.GD2                Plated through-hole drill file          
+------------------------------------------------------------------------------------------
