@@ -32,5 +32,24 @@ DC power jack: - The system is powered by a DC 12V power adapter, and for conven
 Reed Switch: - The Reed switch serves as the means to detect unauthorized entry. It consists of two parts: a magnet and a reed switch. When these components separate, the system activates the buzzer and sends a message alert. To allow for flexible placement, the Reed switch is connected to a long wire extending from the enclosure, enabling users to install it anywhere as needed.
 
 ## Implemented sketch and schematic
+
+<p align="center">
+  <img src="Door_security_system/Picture1.png" alt="Wireless Transmission Flow" width="600"/>
+</p>
+
 ## PCB Design
+
+<p align="center">
+  <img src="Door_security_system/Picture5.png" alt="Wireless Transmission Flow" width="600"/>
+</p>
+<p align="center">
+  <img src="Door_security_system/Picture6.png" alt="Wireless Transmission Flow" width="600"/>
+</p>
+
 ## Solid works Design
+<p align="center">
+  <img src="Door_security_system/Picture3.png" alt="Wireless Transmission Flow" width="600"/>
+</p>
+<p align="center">
+  <img src="Door_security_system/Picture4.png" alt="Wireless Transmission Flow" width="600"/>
+</p>
